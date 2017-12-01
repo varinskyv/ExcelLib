@@ -1,0 +1,8 @@
+c:\users\innovatis\documents\visual studio 2017\Projects\ExcelLib\ExcelLib\bin\Debug\ExcelLib.dll
+c:\users\innovatis\documents\visual studio 2017\Projects\ExcelLib\ExcelLib\bin\Debug\ExcelLib.pdb
+c:\users\innovatis\documents\visual studio 2017\Projects\ExcelLib\ExcelLib\obj\Debug\ExcelLib.csprojResolveAssemblyReference.cache
+c:\users\innovatis\documents\visual studio 2017\Projects\ExcelLib\ExcelLib\obj\Debug\ExcelLib.dll
+c:\users\innovatis\documents\visual studio 2017\Projects\ExcelLib\ExcelLib\obj\Debug\ExcelLib.pdb
+C:\Users\Innovatis\Documents\Visual Studio 2017\Projects\ExcelLib\ExcelLib\bin\Debug\ExcelDataReader.dll
+C:\Users\Innovatis\Documents\Visual Studio 2017\Projects\ExcelLib\ExcelLib\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Innovatis\Documents\Visual Studio 2017\Projects\ExcelLib\ExcelLib\bin\Debug\ExcelDataReader.xml
